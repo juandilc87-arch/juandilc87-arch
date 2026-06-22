@@ -1,58 +1,75 @@
-# Hola, soy [Tu Nombre] 👋
+<h1 align="center">Hola, soy Juan Diego 👋</h1>
 
-Desarrollador enfocado en... [Tu breve descripción aquí]
+<p align="center">Desarrollador, apasionado por la programación, la lógica y la ciberseguridad.</p>
 
-<!-- BANNER PRINCIPAL -->
-<img src="URL_DE_TU_IMAGEN_DE_BANNER" alt="Banner" width="100%">
-
----
-
-## 🧠 Sobre mí
-- 💻 Me apasiona la programación, el aprendizaje continuo y el desarrollo de software.
-- 🚀 Actualmente enfocado en proyectos Full-Stack y automatizaciones.
-- ⚡ Me gusta la ciberseguridad y administrar servidores.
-- 📬 Contacto: `tu_correo@gmail.com`
-
----
-
-## 🌱 Actualmente aprendiendo
-- Tecnologías backend y optimización de bases de datos.
-- Desafíos de seguridad y desarrollo de herramientas personalizadas.
-
----
-
-## 🚀 Proyectos destacados
-- **[Proyecto 1](enlace)**: Una breve descripción de tu proyecto principal, herramientas utilizadas (ej. Python, MySQL) y su función.
-- **[Proyecto 2](enlace)**: Descripción de otra app importante que hayas desarrollado.
-
----
-
-## 🛠️ Pila actual (Tech Stack)
-<!-- Aquí puedes usar iconos planos o de servicios como Devicons para tus tecnologías -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/wrrulosdev/wrrulosdev/main/banner.gif" alt="Banner" width="100%">
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
-<!-- Reemplaza "tu_usuario" por tu nombre de usuario real de GitHub en los enlaces de abajo -->
+### 🧠 Sobre mí
+
+* 🇨🇴 Soy un desarrollador de Medellín, Colombia, interesado en cómo funcionan las cosas internamente.
+* 🔥 Me apasiona la programación, el aprendizaje continuo y la resolución de problemas con lógica y paciencia.
+* ⚛️ Actualmente estoy enfocado en el desarrollo web Full-Stack y en aprender a crear aplicaciones robustas.
+* 🤖 Me gustan mucho los bots automatizados y los análisis predictivos.
+* 💡 Siempre abierto a nuevos temas, ideas y tecnologías.
+* 📬 Contacto: [juandilc87@gmail.com](mailto:juandilc87@gmail.com)
+
+---
+
+### 🌱 Actualmente aprendiendo
+
+* Python orientado a análisis de datos, bots de automatización y modelos predictivos.
+* Herramientas de ciberseguridad, hacking ético, laboratorios en entornos virtuales y escaneo de redes.
+* Optimización de sistemas, hardware y administración técnica de servidores.
+
+---
+
+### 🚀 Proyectos destacados
+
+* **GreenStar**: Un proyecto de desarrollo web interactivo estructurado con HTML, CSS, JavaScript y PHP para la gestión dinámica de contenido.
+* **La Choza**: Aplicación web Full-Stack integrada con bases de datos MySQL, manejo de sesiones de usuario y interfaces personalizadas.
+* **ArchivesDev**: Bots automatizados en Python diseñados para análisis de probabilidades en mercados en tiempo real y análisis de sentimiento.
+
+---
+
+### 🛠️ Pila actual
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight" alt="Estadísticas de tu_usuario" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight" alt="Idiomas más usados" width="48%"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
 ---
 
-## 🌐 Contacto
+### 📊 Estadísticas de GitHub
+
 <p align="center">
-  <a href="https://linkedin.com/in/tu_perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%"/>
+</p>
+
+---
+
+### 🌐 Contacto
+
+<p align="center">
+  <a href="mailto:juandilc87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
