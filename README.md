@@ -53,7 +53,7 @@
 </p>
 
 ---
-
+<!---
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%"/>
 </p>
 
----
+--->
 
 ### 🌐 Contacto
 
@@ -71,5 +71,8 @@
   </a>&nbsp;
   <a href="https://linkedin.com/in/TU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/discord-Archives-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
